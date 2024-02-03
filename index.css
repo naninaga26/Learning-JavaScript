@@ -1,0 +1,13 @@
+#heading{
+    color:red
+}
+
+#navbar{
+    color: blue;
+    background-color: aqua;
+}
+nav li{
+    color: brown;
+    display: inline-block;
+    padding: 20px;
+}
